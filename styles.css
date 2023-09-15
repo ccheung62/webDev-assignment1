@@ -1,16 +1,16 @@
 body{
+    background-color: aliceblue;
     margin-left: 10%;
     margin-right: 10%;
 }
 .image{
     display: block;
     height: 300px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-right: 10px;
 }
 .homeImg{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 .center{
     display: flex;
